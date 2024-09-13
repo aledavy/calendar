@@ -72,6 +72,26 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20240914T115000
+DTEND:20240914T151000
+DESCRIPTION:Преподаватель: Полянский Е.О\; Тип 
+ занятий: лабораторная\; Примечание: Отсу
+ тствует в расписании. Лабораторная со сл
+ ов завкафедры
+LOCATION:В-1302	
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Основы прав. знаний
 DTSTART:20241107T183500
 DTEND:20241107T213000

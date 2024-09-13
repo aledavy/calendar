@@ -144,155 +144,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20240913T183500
-DTEND:20240913T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20240927T183500
-DTEND:20240927T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20241011T183500
-DTEND:20241011T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20241025T183500
-DTEND:20241025T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20241108T183500
-DTEND:20241108T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20241122T183500
-DTEND:20241122T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20241206T183500
-DTEND:20241206T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20241220T183500
-DTEND:20241220T213000
-DESCRIPTION:Преподаватель: Полянский Е.О.\; Тип
-  занятий: лабораторная\; Примечание: -
-LOCATION:В-1302	
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20240914T083000
 DTEND:20240914T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лекция\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лекция\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -309,8 +165,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20240928T083000
 DTEND:20240928T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лекция\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лекция\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -327,8 +183,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20241012T083000
 DTEND:20241012T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лекция\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лекция\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -345,8 +201,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20241026T083000
 DTEND:20241026T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лекция\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лекция\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -363,8 +219,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20241109T083000
 DTEND:20241109T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лабораторная\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лабораторная\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -381,8 +237,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20241123T083000
 DTEND:20241123T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лабораторная\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лабораторная\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -399,8 +255,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20241207T083000
 DTEND:20241207T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лабораторная\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лабораторная\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -417,8 +273,8 @@ BEGIN:VEVENT
 SUMMARY:Компьютерная графика
 DTSTART:20241221T083000
 DTEND:20241221T114000
-DESCRIPTION:Преподаватель: к.т.н Матохина А.В.\;
-  Тип занятий: лабораторная\; Примечание: -
+DESCRIPTION:Преподаватель: доц. Сергеева Т.В.\; 
+ Тип занятий: лабораторная\; Примечание: -
 LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY

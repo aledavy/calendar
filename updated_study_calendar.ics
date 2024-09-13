@@ -72,26 +72,6 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
-DTSTART:20240913T183500
-DTEND:20240913T213000
-DESCRIPTION:Преподаватель: Полянский Е.О\; Тип 
- занятий: лабораторная\; Примечание: В рас
- писании нет этой пары. Завкафедры сказал
-  приходить.
-LOCATION:В-1302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Основы прав. знаний
 DTSTART:20241107T183500
 DTEND:20241107T213000

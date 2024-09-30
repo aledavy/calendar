@@ -282,7 +282,7 @@ DTSTART:20240914T083000
 DTEND:20240914T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -300,7 +300,7 @@ DTSTART:20240928T101000
 DTEND:20240928T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1402
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -318,7 +318,7 @@ DTSTART:20241012T083000
 DTEND:20241012T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -336,7 +336,7 @@ DTSTART:20241026T083000
 DTEND:20241026T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -354,7 +354,7 @@ DTSTART:20241109T083000
 DTEND:20241109T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лабораторная\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -372,7 +372,7 @@ DTSTART:20241123T083000
 DTEND:20241123T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лабораторная\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -390,7 +390,7 @@ DTSTART:20241207T083000
 DTEND:20241207T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лабораторная\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:Дистант/нет занятий очно
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

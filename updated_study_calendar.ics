@@ -54,7 +54,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
+SUMMARY:Сети и телекоммуникации\, последнее 
+ занятие
 DTSTART:20241024T183500
 DTEND:20241024T213000
 DESCRIPTION:Преподаватель: доц. Земцов А.Н.\; Ти
@@ -126,7 +127,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Основы прав. знаний
+SUMMARY:Основы прав. Знаний\, последнее заня
+ тие
 DTSTART:20241219T183500
 DTEND:20241219T213000
 DESCRIPTION:Преподаватель: асс. Фечина Л.А.\; Ти
@@ -258,7 +260,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Сети и телекоммуникации
+SUMMARY:Сети и телекоммуникации\, последнее 
+ занятие
 DTSTART:20241221T115000
 DTEND:20241221T151000
 DESCRIPTION:Преподаватель: Полянский Е.О\; Тип 
@@ -403,7 +406,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Компьютерная графика
+SUMMARY:Компьютерная графика\, последнее за
+ нятие
 DTSTART:20241221T083000
 DTEND:20241221T114000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
@@ -421,7 +425,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Операционные системы
+SUMMARY:Операционные системы\, последнее за
+ нятие
 DTSTART:20241212T183500
 DTEND:20241212T213000
 DESCRIPTION:Преподаватель: доц. Громов Е.Г.\; Ти
@@ -565,7 +570,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Машинно-зависимые языки
+SUMMARY:Машинно-зависимые языки\, последнее 
+ занятие
 DTSTART:20241213T183500
 DTEND:20241213T213000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
@@ -693,7 +699,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Моделирование сис-м
+SUMMARY:Моделирование сис-м\, последнее заня
+ тие
 DTSTART:20241214T083000
 DTEND:20241214T114000
 DESCRIPTION:Преподаватель: Проф. Щербаков М.В.\
@@ -837,7 +844,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Задачи мат. Физики
+SUMMARY:Задачи мат. Физики\, последнее занят
+ ие
 DTSTART:20241214T115000
 DTEND:20241214T151000
 DESCRIPTION:Преподаватель: доц. Смирнов Е.А.\; Т

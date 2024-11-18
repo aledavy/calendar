@@ -610,10 +610,45 @@ BEGIN:VEVENT
 SUMMARY:Моделирование систем
 DTSTART:20241116T083000
 DTEND:20241116T114000
-DESCRIPTION:Преподаватель: Мокин Д.А.\; Тип зан
- ятий: лекция\; Примечание: Занятий нет в ф
- актическом расписании
+DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
+ занятий: лабораторная\; Примечание: -
 LOCATION:Дистант
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Моделирование систем
+DTSTART:20241130T083000
+DTEND:20241130T114000
+DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
+ занятий: лабораторная\; Примечание: -
+LOCATION:В-1402-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Моделирование систем
+DTSTART:20241214T083000
+DTEND:20241214T114000
+DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
+ занятий: лабораторная\; Примечание: -
+LOCATION:В-1402-3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

@@ -630,7 +630,7 @@ DTSTART:20241130T083000
 DTEND:20241130T114000
 DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
  занятий: лабораторная\; Примечание: -
-LOCATION:В-1402-3
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

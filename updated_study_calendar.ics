@@ -301,11 +301,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Операционные системы\, последнее за
  нятие
-DTSTART:20241212T183500
-DTEND:20241212T213000
+DTSTART:20241219T183500
+DTEND:20241219T200000
 DESCRIPTION:Преподаватель: доц. Громов Е.Г.\; Ти
  п занятий: лабораторная\; Примечание: -
-LOCATION:В-902а
+LOCATION:В-908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

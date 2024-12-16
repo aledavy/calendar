@@ -553,7 +553,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Задачи мат. Физики
+SUMMARY:Задачи мат. Физики\, последнее занят
+ ие
 DTSTART:20241220T183500
 DTEND:20241220T213000
 DESCRIPTION:Преподаватель: пр. Ребро И.В.\; Тип 

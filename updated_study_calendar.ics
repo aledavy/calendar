@@ -647,9 +647,29 @@ BEGIN:VEVENT
 SUMMARY:Моделирование систем
 DTSTART:20241214T083000
 DTEND:20241214T114000
-DESCRIPTION:Преподаватель: пр. Писюлькин Д.А.\; 
- Тип занятий: лабораторная\; Примечание: -
+DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
+ занятий: лабораторная\; Примечание: -
 LOCATION:В-1402-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Моделирование систем\, последнее за
+ нятие
+DTSTART:20241218T101000
+DTEND:20241218T105500
+DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
+ занятий: лабораторная\; Примечание: Для т
+ ех\, кто пропустил 14.12.2024
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

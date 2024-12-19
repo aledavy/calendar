@@ -282,11 +282,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Компьютерная графика\, последнее за
  нятие
-DTSTART:20241221T083000
-DTEND:20241221T114000
+DTSTART:20241221T115000
+DTEND:20241221T142500
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
  Тип занятий: лабораторная\; Примечание: -
-LOCATION:В-1402-1
+LOCATION:В-1402-3
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

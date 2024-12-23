@@ -725,9 +725,81 @@ SUMMARY:Компьютерная графика\, последнее за
 DTSTART:20241225T183500
 DTEND:20241225T213000
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
- Тип занятий: Заняти е\; Примечание: Сдача 
+ Тип занятий: Занятие\; Примечание: Сдача 
  контрольной
 LOCATION:В-1402-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Компьютерная графика
+DTSTART:20250122T134000
+DTEND:20250122T142500
+DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
+ Тип занятий: Экзамен\; Примечание: None
+LOCATION:В-1401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Машинно-зависимые языки
+DTSTART:20250118T101000
+DTEND:20250118T105500
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Экзамен\; Примечание: None
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Моделирование систем
+DTSTART:20250110T134000
+DTEND:20250110T142500
+DESCRIPTION:Преподаватель: пр. Мокин Д.А.\; Тип 
+ занятий: Экзамен\; Примечание: None
+LOCATION:В-1402-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20250114T134000
+DTEND:20250114T142500
+DESCRIPTION:Преподаватель: доц. Земцов А.Н.\; Ти
+ п занятий: Экзамен\; Примечание: None
+LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

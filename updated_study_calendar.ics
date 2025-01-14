@@ -811,4 +811,23 @@ DESCRIPTION:Напоминание за 2 часа
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Сети и телекоммуникации
+DTSTART:20250118T134000
+DTEND:20250118T142500
+DESCRIPTION:Преподаватель: доц. Земцов А.Н.\; Ти
+ п занятий: Сдача курсовой\; Примечание: Д
+ ля тех\, кто не сдал курсовой проект
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
 END:VCALENDAR

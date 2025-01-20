@@ -741,10 +741,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Компьютерная графика
-DTSTART:20250122T134000
-DTEND:20250122T142500
+DTSTART:20250122T101000
+DTEND:20250122T105500
 DESCRIPTION:Преподаватель: доц. Матохина А.В.\; 
- Тип занятий: Экзамен\; Примечание: -
+ Тип занятий: Экзамен\; Примечание: Экзаме
+ н
 LOCATION:В-1401
 BEGIN:VALARM
 ACTION:DISPLAY

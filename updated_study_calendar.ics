@@ -72,6 +72,78 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
+DTSTART:20250301T083000
+DTEND:20250301T114000
+DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
+  занятий: Лабораторная\; Примечание: -
+LOCATION:А-514а
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
+DTSTART:20250329T083000
+DTEND:20250329T114000
+DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
+  занятий: Лабораторная\; Примечание: -
+LOCATION:А-514а
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
+DTSTART:20250426T083000
+DTEND:20250426T114000
+DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
+  занятий: Лабораторная\; Примечание: -
+LOCATION:А-514а
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
+DTSTART:20250524T083000
+DTEND:20250524T114000
+DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
+  занятий: Лабораторная\; Примечание: -
+LOCATION:А-514а
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА	
 DTSTART:20250315T115000
 DTEND:20250315T151000
@@ -132,6 +204,42 @@ DTEND:20250426T151000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
  Тип занятий: Практика\; Примечание: -
 LOCATION:А-404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
+DTSTART:20250510T115000
+DTEND:20250510T151000
+DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:416а
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
+DTSTART:20250524T115000
+DTEND:20250524T151000
+DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:416а
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -220,114 +328,6 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250301T083000
-DTEND:20250301T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250329T083000
-DTEND:20250329T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250426T083000
-DTEND:20250426T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250524T083000
-DTEND:20250524T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250510T115000
-DTEND:20250510T151000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лабораторная\; Примечание: -
-LOCATION:416а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250524T115000
-DTEND:20250524T151000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лабораторная\; Примечание: -
-LOCATION:416а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
  ПЬЮТЕРНЫХ СЕТЯХ
 DTSTART:20250306T183500
@@ -353,7 +353,7 @@ DTSTART:20250403T183500
 DTEND:20250403T213000
 DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:В-1302
+LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -372,7 +372,7 @@ DTSTART:20250501T183500
 DTEND:20250501T213000
 DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -391,7 +391,7 @@ DTSTART:20250529T183500
 DTEND:20250529T213000
 DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:В-1304
+LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

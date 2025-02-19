@@ -5,7 +5,7 @@ DTSTART:20250215T083000
 DTEND:20250215T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: лекция\; Примечание: -
-LOCATION:В-501
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -23,7 +23,7 @@ DTSTART:20250315T083000
 DTEND:20250315T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: лекция\; Примечание: -
-LOCATION:В-501
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -41,7 +41,7 @@ DTSTART:20250412T083000
 DTEND:20250412T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: лекция\; Примечание: -
-LOCATION:В-501
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -59,7 +59,7 @@ DTSTART:20250510T083000
 DTEND:20250510T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: лекция\; Примечание: -
-LOCATION:В-501
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -77,7 +77,7 @@ DTSTART:20250301T083000
 DTEND:20250301T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -95,7 +95,7 @@ DTSTART:20250329T083000
 DTEND:20250329T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -113,7 +113,7 @@ DTSTART:20250426T083000
 DTEND:20250426T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -131,7 +131,7 @@ DTSTART:20250524T083000
 DTEND:20250524T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
   занятий: Лабораторная\; Примечание: -
-LOCATION:А-514а
+LOCATION:Дистант
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

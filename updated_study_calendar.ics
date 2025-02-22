@@ -126,7 +126,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
+SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ (п
+ оследнее занятие)
 DTSTART:20250524T083000
 DTEND:20250524T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
@@ -221,7 +222,7 @@ DTSTART:20250510T115000
 DTEND:20250510T151000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лабораторная\; Примечание: -
-LOCATION:416а
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -234,12 +235,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
+SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ (последнее занят
+ ие)
 DTSTART:20250524T115000
 DTEND:20250524T151000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лабораторная\; Примечание: -
-LOCATION:416а
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -386,7 +388,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
+ ПЬЮТЕРНЫХ СЕТЯХ (последнее занятие)
 DTSTART:20250529T183500
 DTEND:20250529T213000
 DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
@@ -461,7 +463,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА	
+SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА (после
+ днее занятие)
 DTSTART:20250530T183500
 DTEND:20250530T213000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
@@ -700,7 +703,8 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
+SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ (после
+ днее занятие)
 DTSTART:20250531T101000
 DTEND:20250531T132000
 DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
@@ -724,7 +728,7 @@ DTEND:20250222T132000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лекция+практика\; Примечание:
   -
-LOCATION:121
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -743,7 +747,7 @@ DTEND:20250322T132000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лекция+практика\; Примечание:
   -
-LOCATION:121
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -762,7 +766,7 @@ DTEND:20250419T132000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лекция+практика\; Примечание:
   -
-LOCATION:121
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -781,7 +785,7 @@ DTEND:20250517T132000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лекция+практика\; Примечание:
   -
-LOCATION:121
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -799,7 +803,7 @@ DTSTART:20250227T183500
 DTEND:20250227T213000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лабораторная\; Примечание: -
-LOCATION:329
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -817,7 +821,7 @@ DTSTART:20250327T183500
 DTEND:20250327T213000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
  ип занятий: Лабораторная\; Примечание: -
-LOCATION:329
+LOCATION:Занятия не проводятся.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

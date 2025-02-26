@@ -126,8 +126,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ (п
- оследнее занятие)
+SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ !
 DTSTART:20250524T083000
 DTEND:20250524T114000
 DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
@@ -235,8 +234,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ (последнее занят
- ие)
+SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ !
 DTSTART:20250524T115000
 DTEND:20250524T151000
 DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
@@ -388,7 +386,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ (последнее занятие)
+ ПЬЮТЕРНЫХ СЕТЯХ !
 DTSTART:20250529T183500
 DTEND:20250529T213000
 DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
@@ -463,8 +461,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА (после
- днее занятие)
+SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА !
 DTSTART:20250530T183500
 DTEND:20250530T213000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
@@ -703,8 +700,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ (после
- днее занятие)
+SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ !
 DTSTART:20250531T101000
 DTEND:20250531T132000
 DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т

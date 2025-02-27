@@ -162,7 +162,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА	
+SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
 DTSTART:20250412T115000
 DTEND:20250412T151000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
@@ -180,7 +180,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА	
+SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
 DTSTART:20250329T115000
 DTEND:20250329T151000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
@@ -198,7 +198,7 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА	
+SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
 DTSTART:20250426T115000
 DTEND:20250426T151000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 

@@ -594,25 +594,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
  ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250419T083000
-DTEND:20250419T100000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: Практика\; Примечание: -
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
 DTSTART:20250517T083000
 DTEND:20250517T100000
 DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;

@@ -519,7 +519,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250418T183500
+DTSTART:20250418T175000
 DTEND:20250418T213000
 DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
  ип занятий: лекция\; Примечание: -

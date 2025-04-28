@@ -369,25 +369,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250501T183500
-DTEND:20250501T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: Лабораторная\; Примечание: -
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
  ПЬЮТЕРНЫХ СЕТЯХ!
 DTSTART:20250529T183500
 DTEND:20250529T213000
@@ -617,24 +598,6 @@ DTEND:20250405T100000
 DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
  ип занятий: лекция\; Примечание: -
 LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250503T101000
-DTEND:20250503T132000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лабораторная\; Примечание: -
-LOCATION:В-1302а
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

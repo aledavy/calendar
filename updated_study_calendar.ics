@@ -469,7 +469,7 @@ DTEND:20250530T213000
 DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
  Тип занятий: лекция\; Примечание: Совмест
  но с МЛВ
-LOCATION:Т-307
+LOCATION:А-404
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

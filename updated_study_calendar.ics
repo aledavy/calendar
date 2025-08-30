@@ -1,11 +1,12 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250215T083000
-DTEND:20250215T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: лекция\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20250917T183500
+DTEND:20250917T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -18,12 +19,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250315T083000
-DTEND:20250315T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: лекция\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251015T183500
+DTEND:20251015T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -36,12 +38,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250412T083000
-DTEND:20250412T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: лекция\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251112T183500
+DTEND:20251112T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -54,12 +57,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250510T083000
-DTEND:20250510T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: лекция\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251210T183500
+DTEND:20251210T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -72,156 +76,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250301T083000
-DTEND:20250301T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250329T083000
-DTEND:20250329T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250426T083000
-DTEND:20250426T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ!
-DTSTART:20250524T083000
-DTEND:20250524T114000
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Лабораторная\; Примечание: -
-LOCATION:https://telemost.yandex.ru/j/36737936547141
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250315T115000
-DTEND:20250315T151000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: Лабораторная\; Примечание: -
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250412T115000
-DTEND:20250412T151000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: Лабораторная\; Примечание: -
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250329T115000
-DTEND:20250329T151000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: Практика\; Примечание: -
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250426T115000
-DTEND:20250426T151000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: Практика\; Примечание: -
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250510T115000
-DTEND:20250510T151000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251001T183500
+DTEND:20251001T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
  ип занятий: Лабораторная\; Примечание: -
-LOCATION:Занятия не проводятся.
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -234,12 +95,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ!
-DTSTART:20250524T115000
-DTEND:20250524T151000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251029T183500
+DTEND:20251029T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
  ип занятий: Лабораторная\; Примечание: -
-LOCATION:Занятия не проводятся.
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -252,13 +114,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250220T183500
-DTEND:20250220T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1301
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251126T183500
+DTEND:20251126T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -271,13 +133,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250320T183500
-DTEND:20250320T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1301
+SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
+ РОВАНИЕ
+DTSTART:20251224T183500
+DTEND:20251224T213000
+DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -290,13 +152,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250417T183500
-DTEND:20250417T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1301
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20250905T183500
+DTEND:20250905T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
+  Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -309,13 +170,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250515T183500
-DTEND:20250515T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: лекция\; Примечание: -
-LOCATION:В-1301
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20251003T183500
+DTEND:20251003T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
+  Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -328,15 +188,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250306T183500
-DTEND:20250306T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: Лабораторная\; Примечание: 
- Занятие отменено по причине болезни пре
- подавателя
-LOCATION:В-1301
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20251031T183500
+DTEND:20251031T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
+  Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -349,13 +206,30 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250403T183500
-DTEND:20250403T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20251128T183500
+DTEND:20251128T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
+  Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1402-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20250919T183500
+DTEND:20250919T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:В-1301
+LOCATION:В-1402-1
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -368,12 +242,285 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ!
-DTSTART:20250529T183500
-DTEND:20250529T213000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20251017T183500
+DTEND:20251017T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1402-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20251114T183500
+DTEND:20251114T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
+  Тип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1402-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:БАЗЫ ДАННЫХ
+DTSTART:20251212T183500
+DTEND:20251212T213000
+DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
+  Тип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1402-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20250906T101000
+DTEND:20250906T114000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Лекция\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20251004T101000
+DTEND:20251004T114000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Лекция\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20251101T101000
+DTEND:20251101T114000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Лекция\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20251229T101000
+DTEND:20251229T114000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Лекция\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20250906T115000
+DTEND:20250906T132000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Практика\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20251004T115000
+DTEND:20251004T132000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Практика\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20251101T115000
+DTEND:20251101T132000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Практика\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КИБЕРПРАВО
+DTSTART:20251229T115000
+DTEND:20251229T132000
+DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
+ Тип занятий: Практика\; Примечание: -
+LOCATION:314
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МОБИЛЬНЫЕ И ВСТРАИВАЕМЫЕ ОПЕРАЦИОН
+ НЫЕ СИСТЕМЫ
+DTSTART:20251026T183500
+DTEND:20251026T213000
+DESCRIPTION:Преподаватель: пр. Полянский Е.О.\; 
+ Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МОБИЛЬНЫЕ И ВСТРАИВАЕМЫЕ ОПЕРАЦИОН
+ НЫЕ СИСТЕМЫ
+DTSTART:20251121T183500
+DTEND:20251121T213000
+DESCRIPTION:Преподаватель: пр. Полянский Е.О.\; 
+ Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МОБИЛЬНЫЕ И ВСТРАИВАЕМЫЕ ОПЕРАЦИОН
+ НЫЕ СИСТЕМЫ
+DTSTART:20251024T183500
+DTEND:20251024T213000
+DESCRIPTION:Преподаватель: пр. Полянский Е.О.\; 
+ Тип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МОБИЛЬНЫЕ И ВСТРАИВАЕМЫЕ ОПЕРАЦИОН
+ НЫЕ СИСТЕМЫ
+DTSTART:20251219T183500
+DTEND:20251219T213000
+DESCRIPTION:Преподаватель: пр. Полянский Е.О.\; 
+ Тип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20250913T115000
+DTEND:20250913T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -387,107 +534,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250307T183500
-DTEND:20250307T213000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: лекция\; Примечание: Совмест
- но с МЛВ
-LOCATION:Т-307
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250404T183500
-DTEND:20250404T213000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: лекция\; Примечание: Совмест
- но с МЛВ
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250502T183500
-DTEND:20250502T213000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: лекция\; Примечание: https://telemo
- st.yandex.ru/j/02140253642777
-LOCATION:Телемост
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250524T115000
-DTEND:20250524T151000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: лекция\; Примечание: Отчитка
-  лабораторных работ + сдача семестровой (
- желательно)
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА!
-DTSTART:20250530T183500
-DTEND:20250530T213000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: лекция\; Примечание: Совмест
- но с МЛВ
-LOCATION:А-404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250221T183500
-DTEND:20250221T213000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: лекция\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20251011T115000
+DTEND:20251011T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -501,11 +552,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250321T183500
-DTEND:20250321T213000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: лекция\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20251108T115000
+DTEND:20251108T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -519,11 +570,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250418T175000
-DTEND:20250418T200000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: лекция\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20251206T115000
+DTEND:20251206T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -537,11 +588,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250516T183500
-DTEND:20250516T213000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: лекция\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20250927T115000
+DTEND:20250927T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Практика\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -555,12 +606,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250222T083000
-DTEND:20250222T100000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: Практика\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20251122T115000
+DTEND:20251122T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Практика\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -574,12 +624,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250322T083000
-DTEND:20250322T100000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: Практика\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20251025T115000
+DTEND:20251025T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -593,12 +642,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ПРОТОКОЛЫ ПЕРЕДАЧИ ИНФОРМАЦИИ В КОМ
- ПЬЮТЕРНЫХ СЕТЯХ
-DTSTART:20250517T083000
-DTEND:20250517T100000
-DESCRIPTION:Преподаватель: ст.пр. Жариков Д.Н.\;
-  Тип занятий: Практика\; Примечание: -
+SUMMARY:ТЕОРИЯ АВТОМАТОВ
+DTSTART:20251220T115000
+DTEND:20251220T151000
+DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
+ Тип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -612,177 +660,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250405T083000
-DTEND:20250405T100000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: лекция\; Примечание: -
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ
-DTSTART:20250405T101000
-DTEND:20250405T132000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Практика\; Примечание: -
-LOCATION:В-1302а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ!
-DTSTART:20250531T101000
-DTEND:20250531T132000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Практика\; Примечание: -
-LOCATION:В-1302а
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250222T101000
-DTEND:20250222T132000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лекция+практика\; Примечание:
-  -
-LOCATION:Занятия не проводятся.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250322T101000
-DTEND:20250322T132000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лекция+практика\; Примечание:
-  -
-LOCATION:Занятия не проводятся.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250419T101000
-DTEND:20250419T132000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лекция+практика\; Примечание:
-  -
-LOCATION:Занятия не проводятся.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250517T101000
-DTEND:20250517T132000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лекция+практика\; Примечание:
-  -
-LOCATION:Занятия не проводятся.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250227T183500
-DTEND:20250227T213000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лабораторная\; Примечание: -
-LOCATION:Занятия не проводятся.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250327T183500
-DTEND:20250327T213000
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Лабораторная\; Примечание: -
-LOCATION:Занятия не проводятся.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:МАШИННОЕ ОБУЧЕНИЕ И АНАЛИЗ ДАННЫХ
-DTSTART:20250610T134000
-DTEND:20250610T142500
-DESCRIPTION:Преподаватель: пр. Хайров А.В.\; Тип
-  занятий: Экзамен\; Примечание: -
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20250913T152000
+DTEND:20250913T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лекция\; Примечание: -
 LOCATION:В-1401
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -796,12 +678,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:МЕТОДЫ ОПТИМИЗАЦИИ
-DTSTART:20250619T134000
-DTEND:20250619T142500
-DESCRIPTION:Преподаватель: доц. Асанова Н.В.\; Т
- ип занятий: Экзамен\; Примечание: -
-LOCATION:Т-304
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20251011T152000
+DTEND:20251011T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1401
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -814,12 +696,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250627T170000
-DTEND:20250627T183000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: Экзамен\; Примечание: -
-LOCATION:А-403
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20251108T152000
+DTEND:20251108T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1401
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -832,13 +714,84 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЭЛЕКТРОТЕХНИКА И ЭЛЕКТРОНИКА
-DTSTART:20250616T175000
-DTEND:20250616T200000
-DESCRIPTION:Преподаватель: пр. Брызгалин Д.А.\; 
- Тип занятий: Пересдача самостоятельной 
- работы\; Примечание: None
-LOCATION:А-404
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20251206T152000
+DTEND:20251206T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20250927T152000
+DTEND:20250927T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20251025T152000
+DTEND:20251025T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20251122T152000
+DTEND:20251122T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
+DTSTART:20251220T152000
+DTEND:20251220T183000
+DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
+ ип занятий: Лабораторная\; Примечание: -
+LOCATION:В-1401
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

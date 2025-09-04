@@ -301,7 +301,7 @@ DTSTART:20250906T101000
 DTEND:20250906T114000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Лекция\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -319,7 +319,7 @@ DTSTART:20251004T101000
 DTEND:20251004T114000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Лекция\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -337,7 +337,7 @@ DTSTART:20251101T101000
 DTEND:20251101T114000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Лекция\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -355,7 +355,7 @@ DTSTART:20251229T101000
 DTEND:20251229T114000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Лекция\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -373,7 +373,7 @@ DTSTART:20250906T115000
 DTEND:20250906T132000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Практика\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -391,7 +391,7 @@ DTSTART:20251004T115000
 DTEND:20251004T132000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Практика\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -409,7 +409,7 @@ DTSTART:20251101T115000
 DTEND:20251101T132000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Практика\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -427,7 +427,7 @@ DTSTART:20251229T115000
 DTEND:20251229T132000
 DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
  Тип занятий: Практика\; Примечание: -
-LOCATION:314
+LOCATION:ГУК-314
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

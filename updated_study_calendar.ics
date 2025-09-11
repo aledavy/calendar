@@ -442,10 +442,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:МОБИЛЬНЫЕ И ВСТРАИВАЕМЫЕ ОПЕРАЦИОН
  НЫЕ СИСТЕМЫ
-DTSTART:20251026T183500
-DTEND:20251026T213000
+DTSTART:20250926T183500
+DTEND:20250926T213000
 DESCRIPTION:Преподаватель: пр. Полянский Е.О.\; 
- Тип занятий: Лекция\; Примечание: -
+ Тип занятий: Лекция\; Примечание: None
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY

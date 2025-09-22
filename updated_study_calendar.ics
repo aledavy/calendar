@@ -175,7 +175,7 @@ DTSTART:20251003T183500
 DTEND:20251003T213000
 DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лекция\; Примечание: -
-LOCATION:Дистант
+LOCATION:https://telemost.yandex.ru/j/60743758418908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -193,7 +193,7 @@ DTSTART:20251031T183500
 DTEND:20251031T213000
 DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лекция\; Примечание: -
-LOCATION:Дистант
+LOCATION:https://telemost.yandex.ru/j/60743758418908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -211,7 +211,7 @@ DTSTART:20251128T183500
 DTEND:20251128T213000
 DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лекция\; Примечание: -
-LOCATION:Дистант
+LOCATION:https://telemost.yandex.ru/j/60743758418908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -247,7 +247,7 @@ DTSTART:20251017T183500
 DTEND:20251017T213000
 DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:Дистант
+LOCATION:https://telemost.yandex.ru/j/60743758418908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -265,7 +265,7 @@ DTSTART:20251114T183500
 DTEND:20251114T213000
 DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:Дистант
+LOCATION:https://telemost.yandex.ru/j/60743758418908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -283,7 +283,7 @@ DTSTART:20251212T183500
 DTEND:20251212T213000
 DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
   Тип занятий: Лабораторная\; Примечание: -
-LOCATION:Дистант
+LOCATION:https://telemost.yandex.ru/j/60743758418908
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

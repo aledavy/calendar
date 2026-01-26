@@ -20,106 +20,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:МОБИЛЬНЫЕ И ВСТРАИВАЕМЫЕ ОПЕРАЦИОН
  НЫЕ СИСТЕМЫ
-DTSTART:20260123T134000
-DTEND:20260123T142500
-DESCRIPTION:Преподаватель: пр. Полянский Е.О.\; 
- Тип занятий: Экзамен\; Примечание: -
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:КОМПЬЮТЕРНАЯ ЛИНГВИСТИКА
-DTSTART:20260119T134000
-DTEND:20260119T142500
-DESCRIPTION:Преподаватель: пр. Сафонова Е.В.\; Т
- ип занятий: Экзамен\; Примечание: -
-LOCATION:В-1401
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
- РОВАНИЕ
-DTSTART:20260114T134000
-DTEND:20260114T142500
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Экзамен\; Примечание: -
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:КИБЕРПРАВО
-DTSTART:20260123T134000
-DTEND:20260123T142500
-DESCRIPTION:Преподаватель: доц. Леонтьев А.Н.\; 
- Тип занятий: Зачет\; Примечание: Зачет
-LOCATION:В-802
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:БАЗЫ ДАННЫХ
-DTSTART:20260123T161000
-DTEND:20260123T165000
-DESCRIPTION:Преподаватель: пр. Аль-Мерри Гаис\;
-  Тип занятий: Предэкзаменационная консу
- льтация\; Примечание: Предэкзаменационн
- ая консультация
-LOCATION:В-1402-1
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИ
- РОВАНИЕ
-DTSTART:20260123T134000
-DTEND:20260123T142500
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Повторный экзамен\; Примечан
- ие: Повторный экзамен
-LOCATION:В-1302
+DTSTART:20260127T161000
+DTEND:20260127T183000
+DESCRIPTION:Преподаватель: пр. Коптелова И.А.\; 
+ Тип занятий: Экзамен\; Примечание: Проста
+ вить оценки в зачетку
+LOCATION:В-1304
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

@@ -543,7 +543,7 @@ DTSTART:20260228T152000
 DTEND:20260228T165000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Лекция\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -561,7 +561,7 @@ DTSTART:20260328T152000
 DTEND:20260328T165000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Лекция\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -579,7 +579,7 @@ DTSTART:20260425T152000
 DTEND:20260425T165000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Лекция\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -597,7 +597,7 @@ DTSTART:20260523T152000
 DTEND:20260523T165000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Лекция\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -615,7 +615,7 @@ DTSTART:20260228T170000
 DTEND:20260228T183000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Практика\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -633,7 +633,7 @@ DTSTART:20260328T170000
 DTEND:20260328T183000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Практика\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -651,7 +651,7 @@ DTSTART:20260425T170000
 DTEND:20260425T183000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Практика\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -669,7 +669,7 @@ DTSTART:20260523T170000
 DTEND:20260523T183000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
  ип занятий: Практика\; Примечание: -
-LOCATION:В-601
+LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

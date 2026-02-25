@@ -63,7 +63,8 @@ SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
 DTSTART:20260221T101000
 DTEND:20260221T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: -
+ ип занятий: Лекция\; Примечание: ТГ - @berdnikw
+ lg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -81,7 +82,8 @@ SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
 DTSTART:20260321T101000
 DTEND:20260321T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: -
+ ип занятий: Лекция\; Примечание: ТГ - @berdnikw
+ lg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -99,7 +101,8 @@ SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
 DTSTART:20260418T101000
 DTEND:20260418T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: -
+ ип занятий: Лекция\; Примечание: ТГ - @berdnikw
+ lg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -117,7 +120,8 @@ SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
 DTSTART:20260516T101000
 DTEND:20260516T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: -
+ ип занятий: Лекция\; Примечание: ТГ - @berdnikw
+ lg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -136,7 +140,7 @@ DTSTART:20260307T101000
 DTEND:20260307T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
  ип занятий: Лабораторная работа\; Примеч
- ание: -
+ ание: ТГ - @berdnikwlg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -155,7 +159,7 @@ DTSTART:20260404T101000
 DTEND:20260404T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
  ип занятий: Лабораторная работа\; Примеч
- ание: -
+ ание: ТГ - @berdnikwlg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -174,7 +178,7 @@ DTSTART:20260502T101000
 DTEND:20260502T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
  ип занятий: Лабораторная работа\; Примеч
- ание: -
+ ание: ТГ - @berdnikwlg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -193,7 +197,7 @@ DTSTART:20260530T101000
 DTEND:20260530T132000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
  ип занятий: Лабораторная работа\; Примеч
- ание: -
+ ание: ТГ - @berdnikwlg
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -671,7 +675,7 @@ SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
 DTSTART:20260523T170000
 DTEND:20260523T183000
 DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Практика\; Примечание: -
+ ип занятий: Практика\; Примечание: None
 LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY

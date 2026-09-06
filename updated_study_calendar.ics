@@ -1,12 +1,11 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260220T183500
-DTEND:20260220T213000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лекция\; Примечание: к.т. +79023628
- 177\, ТГ - @andan73
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20260914T183500
+DTEND:20260914T200000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -20,13 +19,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260515T183500
-DTEND:20260515T213000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: к.т. +79023628177\, ТГ - @andan73
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20261012T183500
+DTEND:20261012T200000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -40,13 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260529T183500
-DTEND:20260529T213000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: к.т. +79023628177\, ТГ - @andan73
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20261109T183500
+DTEND:20261109T200000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -60,12 +57,485 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260221T101000
-DTEND:20260221T132000
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: ТГ - @berdnikw
- lg
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20261207T183500
+DTEND:20261207T200000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20260914T200500
+DTEND:20260914T213000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лабораторная\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20261012T200500
+DTEND:20261012T213000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лабораторная\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20261109T200500
+DTEND:20261109T213000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лабораторная\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СОВРЕМЕННЫЕ ОПЕРАЦИОННЫЕ СИСТЕМЫ И 
+ ИХ АДМИНИСТРИРОВАНИЕ
+DTSTART:20261207T200500
+DTEND:20261207T213000
+DESCRIPTION:Преподаватель: пр. Борисов А.С.\; Ти
+ п занятий: Лабораторная\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СХЕМОТЕХНИКА
+DTSTART:20260916T183500
+DTEND:20260916T213000
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
+ п занятий: Лекция\; Примечание: -
+LOCATION:В-1303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СХЕМОТЕХНИКА
+DTSTART:20261014T183500
+DTEND:20261014T213000
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
+ п занятий: Лекция\; Примечание: -
+LOCATION:В-1303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СХЕМОТЕХНИКА
+DTSTART:20261111T183500
+DTEND:20261111T213000
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
+ п занятий: Лекция\; Примечание: -
+LOCATION:В-1303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:СХЕМОТЕХНИКА
+DTSTART:20261209T183500
+DTEND:20261209T213000
+DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
+ п занятий: Лекция\; Примечание: -
+LOCATION:В-1303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ
+DTSTART:20261223T183500
+DTEND:20261223T213000
+DESCRIPTION:Преподаватель: кафедра физкульту
+ ры\; Тип занятий: Лекция\; Примечание: -
+LOCATION:кафедра физкультуры
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20260917T183500
+DTEND:20260917T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261015T183500
+DTEND:20261015T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261112T183500
+DTEND:20261112T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261210T183500
+DTEND:20261210T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261001T183500
+DTEND:20261001T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261029T183500
+DTEND:20261029T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261126T183500
+DTEND:20261126T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261224T183500
+DTEND:20261224T200000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20260917T200500
+DTEND:20260917T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261015T200500
+DTEND:20261015T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261112T200500
+DTEND:20261112T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261210T200500
+DTEND:20261210T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261001T200500
+DTEND:20261001T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261029T200500
+DTEND:20261029T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261126T200500
+DTEND:20261126T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:МЕТОДЫ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ
+DTSTART:20261224T200500
+DTEND:20261224T213000
+DESCRIPTION:Преподаватель: доц. Коптелова И.А.\
+ ; Тип занятий: Практика\; Примечание: -
+LOCATION:В-1301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 24 часа
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Напоминание за 2 часа
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМ
+ И ДАННЫХ
+DTSTART:20260910T183500
+DTEND:20260910T213000
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\
+ ; Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -79,12 +549,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260321T101000
-DTEND:20260321T132000
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: ТГ - @berdnikw
- lg
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМ
+ И ДАННЫХ
+DTSTART:20261008T183500
+DTEND:20261008T213000
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\
+ ; Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -98,12 +568,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260418T101000
-DTEND:20260418T132000
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: ТГ - @berdnikw
- lg
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМ
+ И ДАННЫХ
+DTSTART:20261105T183500
+DTEND:20261105T213000
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\
+ ; Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -117,12 +587,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260516T101000
-DTEND:20260516T132000
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лекция\; Примечание: ТГ - @berdnikw
- lg
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМ
+ И ДАННЫХ
+DTSTART:20261203T183500
+DTEND:20261203T213000
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\
+ ; Тип занятий: Лекция\; Примечание: -
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -136,12 +606,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260307T101000
-DTEND:20260307T132000
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: ТГ - @berdnikwlg
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМ
+ И ДАННЫХ
+DTSTART:20261022T183500
+DTEND:20261022T213000
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\
+ ; Тип занятий: Лабораторная\; Примечание: 
+ -
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -155,12 +626,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260404T101000
-DTEND:20260404T132000
-DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: ТГ - @berdnikwlg
+SUMMARY:ПОСТРОЕНИЕ СИСТЕМ УПРАВЛЕНИЯ БАЗАМ
+ И ДАННЫХ
+DTSTART:20261217T183500
+DTEND:20261217T213000
+DESCRIPTION:Преподаватель: доц. Конченков В.И.\
+ ; Тип занятий: Лабораторная\; Примечание: 
+ -
 LOCATION:В-1302
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -174,13 +646,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260502T101000
-DTEND:20260502T132000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20260911T183500
+DTEND:20260911T200000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: ТГ - @berdnikwlg
-LOCATION:В-1302
+ ип занятий: Лекция\; Примечание: -
+LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -193,32 +665,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ЗАЩИТА ИНФОРМАЦИИ
-DTSTART:20260530T101000
-DTEND:20260530T132000
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20261009T183500
+DTEND:20261009T200000
 DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: ТГ - @berdnikwlg
-LOCATION:В-1302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260221T134000
-DTEND:20260221T165000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лекция\; Примечание: к.т. +79023628
- 177\, ТГ - @andan73
+ ип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -232,13 +684,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260502T134000
-DTEND:20260502T165000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лекция\; Примечание: к.т. +79023628
- 177\, ТГ - @andan73
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20261106T183500
+DTEND:20261106T200000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -252,13 +703,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260516T134000
-DTEND:20260516T165000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: к.т. +79023628177\, ТГ - @andan73
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20261204T183500
+DTEND:20261204T200000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лекция\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -272,13 +722,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260530T134000
-DTEND:20260530T165000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лабораторная работа\; Примеч
- ание: к.т. +79023628177\, ТГ - @andan73
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20260911T200500
+DTEND:20260911T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -292,13 +741,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУН
- ИКАЦИЙ
-DTSTART:20260213T183500
-DTEND:20260213T213000
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\;
-  Тип занятий: Лекция\; Примечание: к.т +7 (919
- ) 989-02-40\, ТГ - @tadddddio
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20261009T200500
+DTEND:20261009T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -312,13 +760,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУН
- ИКАЦИЙ
-DTSTART:20260313T183500
-DTEND:20260313T213000
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\;
-  Тип занятий: Лекция\; Примечание: к.т +7 (919
- ) 989-02-40\, ТГ - @tadddddio
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20261106T200500
+DTEND:20261106T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -332,13 +779,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУН
- ИКАЦИЙ
-DTSTART:20260410T183500
-DTEND:20260410T213000
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\;
-  Тип занятий: Лекция\; Примечание: к.т +7 (919
- ) 989-02-40\, ТГ - @tadddddio
+SUMMARY:ПРОЕКТИРОВАНИЕ ИНТЕРФЕЙСОВ ПОЛЬЗОВ
+ АТЕЛЯ
+DTSTART:20261204T200500
+DTEND:20261204T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -352,14 +798,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУН
- ИКАЦИЙ
-DTSTART:20260908T183500
-DTEND:20260908T213000
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\;
-  Тип занятий: Лекция\; Примечание: Такая д
- ата в расписании\, выглядит как очевидны
- й косяк.
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧ
+ ИСЛИТЕЛЬНОЙ ТЕХНИКИ
+DTSTART:20260925T183500
+DTEND:20260925T200000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -373,13 +817,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕ
- СПЕЧЕНИЯ
-DTSTART:20260227T183500
-DTEND:20260227T213000
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
- Тип занятий: Лекция\; Примечание: к.т . +7 927
-  502-99-77\, ТГ - @Mick35km
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧ
+ ИСЛИТЕЛЬНОЙ ТЕХНИКИ
+DTSTART:20261023T183500
+DTEND:20261023T200000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -393,13 +836,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕ
- СПЕЧЕНИЯ
-DTSTART:20260327T183500
-DTEND:20260327T213000
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
- Тип занятий: Лекция\; Примечание: к.т . +7 927
-  502-99-77\, ТГ - @Mick35km
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧ
+ ИСЛИТЕЛЬНОЙ ТЕХНИКИ
+DTSTART:20261120T183500
+DTEND:20261120T200000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -413,13 +855,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕ
- СПЕЧЕНИЯ
-DTSTART:20260424T183500
-DTEND:20260424T213000
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
- Тип занятий: Лекция\; Примечание: к.т . +7 927
-  502-99-77\, ТГ - @Mick35km
+SUMMARY:ОСНОВЫ КОНСТРУИРОВАНИЯ СРЕДСТВ ВЫЧ
+ ИСЛИТЕЛЬНОЙ ТЕХНИКИ
+DTSTART:20261218T183500
+DTEND:20261218T200000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -433,13 +874,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕ
- СПЕЧЕНИЯ
-DTSTART:20260522T183500
-DTEND:20260522T213000
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
- Тип занятий: Лекция\; Примечание: к.т . +7 927
-  502-99-77\, ТГ - @Mick35km
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ
+DTSTART:20260925T200500
+DTEND:20260925T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -453,13 +892,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ВВЕДЕНИЕ В РАЗРАБОТКУ ПРОГРАММНОГО 
- ОБЕСПЕЧЕНИЯ
-DTSTART:20260214T083000
-DTEND:20260214T114000
-DESCRIPTION:Преподаватель: доц. Андреев А.Е.\; Т
- ип занятий: Лекция\; Примечание: к.т. +79023628
- 177\, ТГ - @andan73
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ
+DTSTART:20261023T200500
+DTEND:20261023T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -473,13 +910,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУН
- ИКАЦИЙ
-DTSTART:20260214T115000
-DTEND:20260214T151000
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\;
-  Тип занятий: Лабораторная работа\; Приме
- чание: к.т +7 (919) 989-02-40\, ТГ - @tadddddio
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ
+DTSTART:20261120T200500
+DTEND:20261120T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -493,206 +928,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:УЗЛЫ И УСТРОЙСТВА СИСТЕМ ТЕЛЕКОММУН
- ИКАЦИЙ
-DTSTART:20260411T115000
-DTEND:20260411T151000
-DESCRIPTION:Преподаватель: ст.пр. Тарасов П.С.\;
-  Тип занятий: Лабораторная работа\; Приме
- чание: к.т +7 (919) 989-02-40\, ТГ - @tadddddio
+SUMMARY:ИНТЕРФЕЙСЫ ВСТРАИВАЕМЫХ СИСТЕМ
+DTSTART:20261218T200500
+DTEND:20261218T213000
+DESCRIPTION:Преподаватель: доц. Бердник В.Л.\; Т
+ ип занятий: Лабораторная\; Примечание: -
 LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕ
- СПЕЧЕНИЯ
-DTSTART:20260314T115000
-DTEND:20260314T151000
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
- Тип занятий: Лабораторная работа\; Приме
- чание: к.т . +7 927 502-99-77\, ТГ - @Mick35km
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ОСНОВЫ СИСТЕМНОГО ПРОГРАММНОГО ОБЕ
- СПЕЧЕНИЯ
-DTSTART:20260425T115000
-DTEND:20260425T151000
-DESCRIPTION:Преподаватель: доц. Кузнецов М.А.\; 
- Тип занятий: Лабораторная работа\; Приме
- чание: к.т . +7 927 502-99-77\, ТГ - @Mick35km
-LOCATION:В-1301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260228T152000
-DTEND:20260228T165000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Лекция\; Примечание: Почта - Д
- аниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260328T152000
-DTEND:20260328T165000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Лекция\; Примечание: Почта - Д
- аниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260425T152000
-DTEND:20260425T165000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Лекция\; Примечание: Почта - Д
- аниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260523T152000
-DTEND:20260523T165000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Лекция\; Примечание: Почта - Д
- аниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260228T170000
-DTEND:20260228T183000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Практика\; Примечание: Почта -
-  Даниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260328T170000
-DTEND:20260328T183000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Практика\; Примечание: Почта -
-  Даниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260425T170000
-DTEND:20260425T183000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Практика\; Примечание: Почта -
-  Даниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ЭКОНОМИКА ПРОГРАММНОГО ПРОЕКТА
-DTSTART:20260523T170000
-DTEND:20260523T183000
-DESCRIPTION:Преподаватель: проф. Фролов Д.П.\; Т
- ип занятий: Практика\; Примечание: Почта -
-  Даниил Фролов <ecodev@mail.ru>
-LOCATION:https://telemost.yandex.ru/j/97429157629072
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа

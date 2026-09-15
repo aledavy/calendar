@@ -153,29 +153,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:СХЕМОТЕХНИКА
-DTSTART:20260916T183500
-DTEND:20260916T213000
-DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
- п занятий: Лекция\; Примечание: -
-LOCATION:В-1303
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 24 часа
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Напоминание за 2 часа
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:СХЕМОТЕХНИКА
 DTSTART:20261014T183500
 DTEND:20261014T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лекция\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -193,7 +175,7 @@ DTSTART:20261111T183500
 DTEND:20261111T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лекция\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -211,7 +193,7 @@ DTSTART:20261209T183500
 DTEND:20261209T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лекция\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -951,7 +933,7 @@ DTSTART:20260907T183500
 DTEND:20260907T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -969,7 +951,7 @@ DTSTART:20260921T183500
 DTEND:20260921T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -987,7 +969,7 @@ DTSTART:20261005T183500
 DTEND:20261005T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -1005,7 +987,7 @@ DTSTART:20261019T183500
 DTEND:20261019T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -1023,7 +1005,7 @@ DTSTART:20261102T183500
 DTEND:20261102T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -1041,7 +1023,7 @@ DTSTART:20261116T183500
 DTEND:20261116T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -1059,7 +1041,7 @@ DTSTART:20261130T183500
 DTEND:20261130T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -1077,7 +1059,7 @@ DTSTART:20261214T183500
 DTEND:20261214T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
@@ -1095,7 +1077,7 @@ DTSTART:20261228T183500
 DTEND:20261228T213000
 DESCRIPTION:Преподаватель: доц. Егунов В.А.\; Ти
  п занятий: Лабораторная\; Примечание: -
-LOCATION:В-1303
+LOCATION:Дистант\, либо В-1303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Напоминание за 24 часа
